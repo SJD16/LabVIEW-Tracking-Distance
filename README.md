@@ -8,6 +8,7 @@ This program was developed to calculate the **distance between two objects** in 
 ### 1️⃣ Set Up ROI (Region of Interest)
 
 - If necessary, adjust the **ROI** in the **Vision Assistant**.
+  
   ![imagen](https://github.com/user-attachments/assets/c7c8abb2-b407-4a8a-9995-a8f1c9c117fa)
 ### 2️⃣ Save Sample Images
 - Ensure the samples are saved in some folder as shown:  
